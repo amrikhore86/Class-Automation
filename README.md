@@ -1,6 +1,8 @@
 # Class-Automation
 I made a Python Script to attend my Online Classes Everyday. You can optionally add the executable file to Windows Scheduler to run it daily automatically.
 
+NOTE: YOU CAN DOWNLOAD THE MAIN EXECUTION FILE HERE : https://mega.nz/file/qgpz1CyQ#_Dh4U4Vw7IGD-D5RCr9iN6UzMwznlZJsF40Uu2taCDM
+
 Requirements :
 1. Set display resolution to 1366*768 (Other resolutions need customization)
 2. Everything else must be closed properly
